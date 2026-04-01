@@ -1,11 +1,10 @@
-
+package testpackage;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.edge.EdgeDriver;
-import java.io.FileInputStream;
-public class demotest2 {
+public class demo_test2 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -30,3 +29,4 @@ public class demotest2 {
 	}
 
 }
+

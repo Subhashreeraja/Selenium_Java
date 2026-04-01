@@ -4,8 +4,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.*;
 
-
-
 public class demo_test {
 
 	public static void main(String[] args) {

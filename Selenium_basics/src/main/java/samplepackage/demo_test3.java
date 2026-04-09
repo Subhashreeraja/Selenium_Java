@@ -15,6 +15,7 @@ public class demo_test3 {
 	driver.navigate().forward();
 	Thread.sleep(5000);
 	driver.navigate().forward();
+	driver.quit();
 
 }
 }
